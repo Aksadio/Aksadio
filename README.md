@@ -123,7 +123,7 @@ class Aksadio:
 ![Profile Views](https://komarev.com/ghpvc/?username=Aksadio&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Aksadio?label=Followers&labelColor=%236A7DA8&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Aksadio?label=Stars&labelColor=%236A7DA8&style=for-the-badge)
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2030%20mins-blue?style=for-the-badge)
+
 
 </div>
 
