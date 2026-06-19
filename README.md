@@ -105,7 +105,10 @@ class Aksadio:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aksadio&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/Aksadio)
+![Night Owl](https://img.shields.io/badge/🦉-Night%20Owl-1a1a2e?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square)
+![Claude AI Fan](https://img.shields.io/badge/Claude%20AI-Fan-C109F7?style=flat-square)
+![CS50](https://img.shields.io/badge/Harvard-CS50-A51C30?style=flat-square&logo=harvard&logoColor=white)
 
 </div>
 
