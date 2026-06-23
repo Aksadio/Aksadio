@@ -22,7 +22,7 @@
 ```python
 class Aksadio:
     username   = "Aksadio"
-    location   = "Cox's Bāzār / Chittagong, Bangladesh"
+    location   = "Chittagong, Bangladesh"
     editor     = "VS Code"
     os         = "Windows"
     focus      = ["AI/LLMs", "Python Dev", "Web Dev", "Prompt Engineering"]
