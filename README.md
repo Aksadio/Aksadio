@@ -37,7 +37,7 @@ class Aksadio:
 
 | Course | Progress | Status |
 |--------|----------|--------|
-| CS50x — Intro to Computer Science | ████████░░ 50% | Week 5 / 10 |
+| CS50x — Intro to Computer Science | ██████░░░░░ 50% | Week 5 / 10 |
 | CS50P — Intro to Programming with Python | ░░░░░░░░░░ 5% | Problem Set 0 / 9 |
 | AI Prompt Engineering | ████░░░░░░ 40% | Ongoing |
 
