@@ -1,44 +1,166 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info panel.
-     regenerate portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py <prepped_photo>
-     info panel: python scripts/make_info_card.py -->
+# Hi, I'm Aksad
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+### Python Developer · Web Developer · AI Enthusiast
 
-<h3><code>aksad@github ~ $ ./contributions.sh</code></h3>
+<a href="https://github.com/Aksadio">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=80&lines=I'm+a+Python+Developer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Claude+AI;I+love+LLMs;I+build+tools+%26+automation;By+the+way+I+use+Claude+%F0%9F%92%80" />
+</a>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Aksad's GitHub contribution graph — auto-refreshed daily" />
+[![Location](https://img.shields.io/badge/📍-Chittagong%2C%20Bangladesh-informational?style=flat-square)](https://github.com/Aksadio)
+[![GitHub](https://img.shields.io/badge/GitHub-Aksadio-181717?style=flat-square&logo=github)](https://github.com/Aksadio)
+[![Email](https://img.shields.io/badge/Email-aksad.dev.io%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aksad.dev.io@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-shahariarazimaksad-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahariarazimaksad)
 
-<br>
-<br>
+</div>
 
-<h3><code>aksad@github ~ $ whoami</code></h3>
+---
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Shahariar Azim Aksad — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Shahariar Azim Aksad — experience, stack, highlights" /></td>
-</tr>
-</table>
+## 👤 About Me
 
-<br>
-<br>
+```python
+class Aksadio:
+    username   = "Aksadio"
+    location   = "Chittagong, Bangladesh"
+    editor     = "VS Code"
+    os         = "Windows"
+    focus      = ["AI/LLMs", "Python Dev", "Web Dev", "Prompt Engineering"]
+    languages  = ["Python", "HTML", "CSS", "JavaScript", "C"]
+    learning   = ["CS50x", "CS50P"]  # Harvard
+    currently  = "Building tools via prompting 🚀"
+```
 
-<h3><code>aksad@github ~ $ ./links.sh</code></h3>
+---
 
-<p><b>AI Builder · Instructor</b></p>
+## 🎓 Currently Learning
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aksadio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aksadio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahariar--azim--aksad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/shahariar-azim-aksad-69aaaa3b8)
-[![X](https://img.shields.io/badge/X-Aksad__0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aksad_0)
-[![Instagram](https://img.shields.io/badge/Instagram-aksad.dev.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aksad.dev.io/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-shahariarazimaksad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahariarazimaksad)
-[![edX](https://img.shields.io/badge/edX-Aksadio-02262B?style=for-the-badge&logo=edx&logoColor=white)](https://profile.edx.org/u/Aksadio)
-[![Credentials](https://img.shields.io/badge/Credentials-Wallet-22d3ee?style=for-the-badge&logo=credly&logoColor=black)](https://www.credential.net/profile/shahariarazimaksad43941/wallet)
+| Course | Progress | Status |
+|--------|----------|--------|
+| CS50x — Intro to Computer Science | ██████░░░░░ 50% | Week 5 / 10 |
+| CS50P — Intro to Programming with Python | █░░░░░░░░░ 10% | Problem Set 1 / 9 |
+| AI Prompt Engineering | ████░░░░░░ 40% | Ongoing |
+
+---
+
+## 🚀 Projects & Interests
+
+| Area | What I Work On |
+|------|----------------|
+| 🤖 AI / LLMs | LLM tooling, Claude AI, Prompt Engineering |
+| 🌐 Web Dev | HTML, CSS, JavaScript |
+| 🐍 Python | Scripts, automation, CS50P problem sets |
+| 📊 Data | Kaggle, ML exploration |
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
+**Tools & Environments:**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+
+**Design & Creative:**
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Aksadio&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aksadio's GitHub stats" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksadio&theme=radical&hide_border=true" alt="Aksadio's streak stats" />
+
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksadio&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Aksadio's top languages" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Aksadio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aksadio&theme=redical&hide_border=true)](https://github.com/Aksadio)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Night Owl](https://img.shields.io/badge/🦉-Night%20Owl-1a1a2e?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square)
+![Claude AI Fan](https://img.shields.io/badge/Claude%20AI-Fan-C109F7?style=flat-square)
+![CS50](https://img.shields.io/badge/Harvard-CS50-A51C30?style=flat-square&logo=harvard&logoColor=white)
+
+</div>
+
+---
+
+## 📇 Profile Summary
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksadio&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aksadio&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aksadio&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aksadio&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aksadio&theme=github_dark" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aksadio-181717?style=for-the-badge&logo=github)](https://github.com/Aksadio)
 [![Email](https://img.shields.io/badge/Email-aksad.dev.io%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksad.dev.io@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahariarazimaksad)
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=Aksadio&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
+
+</div>
+
+---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aksadio/Aksadio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aksadio/Aksadio/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aksadio/Aksadio/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Scan to Visit My Kaggle Profile
+
+<img src="https://quickchart.io/qr?text=https://www.kaggle.com/shahariarazimaksad&size=200&dark=181717&margin=2" alt="Kaggle QR Code" width="160" />
+
+*"The best way to predict the future is to build it."*
 
 </div>
