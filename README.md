@@ -157,9 +157,8 @@ class Aksadio:
 
 <div align="center">
 
-### Scan to Visit My Kaggle Profile
-
-<img src="https://quickchart.io/qr?text=https://www.kaggle.com/shahariarazimaksad&size=200&dark=181717&margin=2" alt="Kaggle QR Code" width="160" />
+### Scan to Visit My Portfolio-
+<img src="https://quickchart.io/qr?text=https://aksadio.github.io/Aksad/&size=200&dark=181717&margin=2" alt="Kaggle QR Code" width="160" />
 
 *"The best way to predict the future is to build it."*
 
