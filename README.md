@@ -26,9 +26,10 @@ class Aksadio:
     editor     = "VS Code"
     os         = "Windows"
     focus      = ["AI/LLMs", "Python Dev", "Web Dev", "Prompt Engineering"]
-    languages  = ["Python", "HTML", "CSS", "JavaScript", "C"]
-    learning   = ["CS50x", "CS50P"]  # Harvard
+    languages  = ["Python", "HTML", "C"]
+    learning   = ["CS50x", "CS50P"] Harvard ["Cyber Security"] w3
     currently  = "Building tools via prompting 🚀"
+
 ```
 
 ---
@@ -39,6 +40,7 @@ class Aksadio:
 |--------|----------|--------|
 | CS50x — Intro to Computer Science | ██████░░░░░ 50% | Week 5 / 10 |
 | CS50P — Intro to Programming with Python | █░░░░░░░░░ 10% | Problem Set 1 / 9 |
+| Cyber Security — W3 |  ███░░░░░░░ 25% | Ongoing |
 | AI Prompt Engineering | ████░░░░░░ 40% | Ongoing |
 
 ---
@@ -50,7 +52,7 @@ class Aksadio:
 | 🤖 AI / LLMs | LLM tooling, Claude AI, Prompt Engineering |
 | 🌐 Web Dev | HTML, CSS, JavaScript |
 | 🐍 Python | Scripts, automation, CS50P problem sets |
-| 📊 Data | Kaggle, ML exploration |
+| 📊 Data | Kaggle, ML exploration | Cyber Security |
 
 ---
 
