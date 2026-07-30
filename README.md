@@ -40,7 +40,7 @@ class Aksadio:
 |--------|----------|--------|
 | CS50x — Intro to Computer Science | ██████░░░░░ 50% | Week 5 / 10 |
 | CS50P — Intro to Programming with Python | █░░░░░░░░░ 10% | Problem Set 1 / 9 |
-| Cyber Security — W3 |  ███░░░░░░░ 25% | Ongoing |
+| Cyber Security — W3 |  ████░░░░░░░ 38% | Ongoing |
 | AI Prompt Engineering | ████░░░░░░ 40% | Ongoing |
 
 ---
