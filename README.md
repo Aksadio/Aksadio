@@ -2,7 +2,7 @@
 
 # Hi, I'm Aksad
 
-### Python Developer · Web Developer · AI Enthusiast
+### Intro Python dev · Intro Web dev ·Intro Cyber security · AI Enthusiast
 
 <a href="https://github.com/Aksadio">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=80&lines=I'm+a+Python+Developer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Claude+AI;I+love+LLMs;I+build+tools+%26+automation;By+the+way+I+use+Claude+%F0%9F%92%80" />
@@ -25,7 +25,7 @@ class Aksadio:
     location   = "Chittagong, Bangladesh"
     editor     = "VS Code"
     os         = "Windows"
-    focus      = ["AI/LLMs", "Python Dev", "Web Dev", "Prompt Engineering"]
+    focus      = ["AI", "Python Dev", "Web Dev", "Cyber Sicurity", "Prompt Engineering"]
     languages  = ["Python", "HTML", "C"]
     learning   = ["CS50x", "CS50P"] Harvard ["Cyber Security"] w3
     currently  = "Building tools via prompting 🚀"
@@ -49,10 +49,10 @@ class Aksadio:
 
 | Area | What I Work On |
 |------|----------------|
-| 🤖 AI / LLMs | LLM tooling, Claude AI, Prompt Engineering |
+| 🤖 AI | Claude AI, Google Ai, Prompt Engineering |
 | 🌐 Web Dev | HTML, CSS, JavaScript |
 | 🐍 Python | Scripts, automation, CS50P problem sets |
-| 📊 Data | Kaggle, ML exploration | Cyber Security |
+| 📊 Data | Kaggle | Cyber Security |
 
 ---
 
