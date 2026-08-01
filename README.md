@@ -5,10 +5,9 @@
 ### Intro Python dev · Intro Web dev ·Intro Cyber security · AI Enthusiast
 
 <a href="https://github.com/Aksadio">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=80&lines=I'm+a+Python+Developer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Claude+AI;I+love+LLMs;I+build+tools+%26+automation;By+the+way+I+use+Claude+%F0%9F%92%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=80&lines=I'm+a+Intro+Python+Developer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Claude+AI;I+love+Cyber+Security;I+build+tools+%26+automation;%F0%9F%92%80" />
 </a>
 
-[![Location](https://img.shields.io/badge/📍-Chittagong%2C%20Bangladesh-informational?style=flat-square)](https://github.com/Aksadio)
 [![GitHub](https://img.shields.io/badge/GitHub-Aksadio-181717?style=flat-square&logo=github)](https://github.com/Aksadio)
 [![Email](https://img.shields.io/badge/Email-aksad.dev.io%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aksad.dev.io@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-shahariarazimaksad-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahariarazimaksad)
