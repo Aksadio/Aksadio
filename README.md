@@ -9,7 +9,6 @@
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aksadio-181717?style=flat-square&logo=github)](https://github.com/Aksadio)
-[![Email](https://img.shields.io/badge/Email-aksad.dev.io%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aksad.dev.io@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-shahariarazimaksad-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahariarazimaksad)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yG4vqCHWW)
 
