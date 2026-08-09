@@ -1,6 +1,7 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=header"/>
 
-# Hi, I'm Aksad
+  # Hi, I'm Aksad
 
 ### Intro Python dev · Intro Web dev ·Intro Cyber security · AI Enthusiast
 
@@ -89,13 +90,12 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Aksadio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aksadio&theme=redical&hide_border=true)](https://github.com/Aksadio)
-
-</div>
+<!-- Activity Graph -->
+  <a href="https://github.com/Aksadio">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksadio&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
 
 ---
 
