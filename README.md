@@ -18,18 +18,15 @@
 
 ## 👤 About Me
 
-```python
-class Aksadio:
-    username   = "Aksadio"
-    location   = "Chittagong, Bangladesh"
-    editor     = "VS Code"
-    os         = "Windows"
-    focus      = ["AI", "Python Dev", "Web Dev", "Cyber Sicurity", "Prompt Engineering"]
-    languages  = ["Python", "HTML", "C"]
-    learning   = ["CS50x", "CS50P"] Harvard ["Cyber Security"] w3
-    currently  = "Building tools via prompting 🚀"
 
-```
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="./terminal%20intro.svg" alt="Terminal Introduction" width="650"/>
+</div>
+
+
 
 ---
 
