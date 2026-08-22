@@ -27,8 +27,6 @@
   <img src="./terminal%20intro.svg" alt="Terminal Introduction" width="650"/>
 </div>
 
-
-
 ---
 
 ## 🎓 Currently Learning
