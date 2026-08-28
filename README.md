@@ -36,7 +36,7 @@
 | Course | Progress | Status |
 |--------|----------|--------|
 | CS50x — Intro to Computer Science | ██████░░░░░ 50% | Week 5 / 10 |
-| CS50P — Intro to Programming with Python | █░░░░░░░░░ 10% | Problem Set 1 / 9 |
+| CS50P — Intro to Programming with Python | ██░░░░░░░░ 20% | Problem Set 2 / 9 |
 | Cyber Security — W3 |  █████░░░░░░ 44% | Ongoing |
 | AI Prompt Engineering | ████░░░░░░ 40% | Ongoing |
 
