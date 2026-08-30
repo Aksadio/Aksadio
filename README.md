@@ -40,7 +40,12 @@
 | Cyber Security — W3 |  █████░░░░░░ 44% | Ongoing |
 | AI Prompt Engineering | ████░░░░░░ 40% | Ongoing |
 
+
+- 🚀 Currently solving problems on CS50x & CS50P
+- 💻 Code repository: [My CS50 Solutions](https://github.com/Aksadio/code50)
+
 ---
+
 
 ## 🚀 Projects & Interests
 
