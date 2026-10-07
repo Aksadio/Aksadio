@@ -82,12 +82,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Aksadio&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aksadio's GitHub stats" />
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksadio&theme=radical&hide_border=true" alt="Aksadio's streak stats" />
 
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksadio&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Aksadio's top languages" />
 
