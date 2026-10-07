@@ -154,7 +154,7 @@
 <div align="center">
 
 ### Scan to Visit My Portfolio-
-<img src="https://quickchart.io/qr?text=https://aksadio.github.io/Aksad/&size=200&dark=181717&margin=2" alt="Kaggle QR Code" width="160" />
+<img src="https://quickchart.io/qr?text=https://aksadio.github.io/Shahariar-Azim-Aksad/&size=200&dark=181717&margin=2" alt="Portfolio QR Code" width="160" />
 
 *"The best way to predict the future is to build it."*
 
