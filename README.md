@@ -3,21 +3,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=header"/>
 
-  # Hi, I'm Aksad
-
-### Intro Python dev · Intro Web dev ·Intro Cyber security · AI Enthusiast
-
-<a href="https://github.com/Aksadio">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=80&lines=I'm+a+Intro+Python+Developer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Claude+AI;I+love+Cyber+Security;I+build+tools+%26+automation;%F0%9F%92%80" />
-</a>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aksadio-181717?style=flat-square&logo=github)](https://github.com/Aksadio)
-[![Kaggle](https://img.shields.io/badge/Kaggle-shahariarazimaksad-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahariarazimaksad)
-
 
 </div>
-
----
 
 ## 👤 About Me
 
