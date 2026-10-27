@@ -51,6 +51,7 @@
 
 <img src="https://cdn-images.tryhackme.com/public-profile/Aksad/badge-39057e8b0300.png" alt="Aksad's TryHackMe badge." width="400">
 
+
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -63,6 +64,7 @@
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+[![LabEx](https://img.shields.io/badge/LabEx-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://labex.io/u/shahariar-azim-aksad-20099079)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
