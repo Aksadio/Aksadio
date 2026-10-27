@@ -47,6 +47,10 @@
 
 ## 💻 Tech Stack
 
+**TryHackMe:**
+
+<img src="https://cdn-images.tryhackme.com/public-profile/Aksad/badge-39057e8b0300.png" alt="Aksad's TryHackMe badge." width="400">
+
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
