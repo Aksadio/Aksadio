@@ -49,7 +49,7 @@
 
 **TryHackMe:**
 
-<img src="https://cdn-images.tryhackme.com/public-profile/Aksad/badge-39057e8b0300.png" alt="Aksad's TryHackMe badge." width="400">
+<img src="https://cdn-images.tryhackme.com/public-profile/Aksad/badge-fa0289017e53.png" alt="Aksad's TryHackMe badge." width="300">
 
 
 **Languages:**
