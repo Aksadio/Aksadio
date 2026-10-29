@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aksadio/Aksadio/main/chiptune-tracker-1920x1080.gif" alt="Chiptune Tracker" width="720">
+  <img src="https://raw.githubusercontent.com/Aksadio/Aksadio/main/chiptune-tracker-1920x1080.gif" alt="Chiptune Tracker" width="920">
 </div>
 
 ## 👤 About Me
