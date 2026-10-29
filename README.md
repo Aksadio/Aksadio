@@ -1,11 +1,6 @@
-
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=header"/>
-
-
 </div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aksadio/Aksadio/main/chiptune-tracker-1920x1080.gif" alt="Chiptune Tracker" width="920">
 </div>
