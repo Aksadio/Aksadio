@@ -48,7 +48,7 @@
 
 **TryHackMe:**
 
-<img src="https://cdn-images.tryhackme.com/public-profile/Aksad/badge-fa0289017e53.png" alt="Aksad's TryHackMe badge." width="300">
+<img src="https://cdn-images.tryhackme.com/public-profile/Aksad/badge-f5c0aadbf956.png" alt="Aksad's TryHackMe badge." width="300">
 
 
 **Languages:**
