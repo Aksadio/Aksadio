@@ -21,7 +21,6 @@
 
 | Course | Status |
 |--------| --------|
-| CS50x — Intro to Computer Science | Ongoing |
 | CS50P — Intro to Programming with Python | Ongoing |
 | Cyber Security — W3 | Ongoing |
 | AI Prompt Engineering | Ongoing |
